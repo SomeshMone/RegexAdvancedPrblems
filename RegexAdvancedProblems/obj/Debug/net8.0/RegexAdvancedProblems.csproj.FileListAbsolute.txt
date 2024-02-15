@@ -1,0 +1,15 @@
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\obj\Debug\net8.0\RegexAdvancedProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\obj\Debug\net8.0\RegexAdvancedProblems.AssemblyInfoInputs.cache
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\obj\Debug\net8.0\RegexAdvancedProblems.AssemblyInfo.cs
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\obj\Debug\net8.0\RegexAdvancedProblems.csproj.CoreCompileInputs.cache
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\obj\Debug\net8.0\RegexAdvancedProblems.sourcelink.json
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\bin\Debug\net8.0\RegexAdvancedProblems.exe
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\bin\Debug\net8.0\RegexAdvancedProblems.deps.json
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\bin\Debug\net8.0\RegexAdvancedProblems.runtimeconfig.json
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\bin\Debug\net8.0\RegexAdvancedProblems.dll
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\bin\Debug\net8.0\RegexAdvancedProblems.pdb
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\obj\Debug\net8.0\RegexAdvancedProblems.dll
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\obj\Debug\net8.0\refint\RegexAdvancedProblems.dll
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\obj\Debug\net8.0\RegexAdvancedProblems.pdb
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\obj\Debug\net8.0\RegexAdvancedProblems.genruntimeconfig.cache
+C:\Programs\RegexAdvancedProblems\RegexAdvancedProblems\obj\Debug\net8.0\ref\RegexAdvancedProblems.dll
