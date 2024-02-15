@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System;
+using System.Text.Encodings.Web;
 
 namespace RegexAdvancedProblems
 {
@@ -15,6 +16,10 @@ namespace RegexAdvancedProblems
 
             //Password validation
             PassWordValidation.passwordValidation();
+
+            //Html Validation
+
+            Html.html();
 
         }
     }
